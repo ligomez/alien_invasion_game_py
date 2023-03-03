@@ -1,6 +1,6 @@
 # alien_invasion_game_py 
 
-2D game developed using pygame package to put in practice concepts learned in the Python Crash Course book - 2nd edition. 
+2D game developed using pygame package. 
 
 In this game the player controls a rocket ship that appears at the bottom center of the screen. Moving the ship right and left and shooting bullets using the spacebar, the player should destroy all the alliens. Alliens become faster while player advance the game. If alien hits the player's ship or reaches the bottom of the screen, the player loses a ship, ships left are showed in the top  left of the screen.  
 
